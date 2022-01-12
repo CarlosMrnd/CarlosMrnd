@@ -2,7 +2,7 @@
 ### I'm a Web Developer !
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play&color=0008F7FF&center=true&vCenter=true&multiline=true&height=70&lines=I'm+Carlos+Miranda+De+la+Hoz;A+curious+engineer+and+developer)](https://git.io/typing-svg)
 
-🔭 I’m currently looking for a job 😄.
+- 🔭 I’m currently looking for a job 😄.
 - 🌱 I’m currently learning Testing.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about HTML, CSS, JavaScript and much much more!
