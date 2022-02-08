@@ -5,7 +5,7 @@
 - 🔭 I’m currently looking for a job 😄.
 - 🌱 I’m currently learning Testing.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about HTML, CSS, JavaScript and much much more!
+- 💬 Ask me about JavaScript, React, Python and much much more!
 - ⚡ Fun fact: I'm a gamer! ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
 
 #### 💻 My Toolbox ↗️
