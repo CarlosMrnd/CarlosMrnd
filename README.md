@@ -2,10 +2,10 @@
 ### I'm a Frontend Developer !
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Play&color=0008F7FF&center=true&vCenter=true&multiline=true&height=70&lines=I'm+Carlos+Miranda+De+la+Hoz;A+curious+engineer+and+developer)](https://git.io/typing-svg)
 
-- 🔭 I’m currently looking for a job 😄.
+- 🔭 I’m currently in TechCamp Seguros Bolivar 😄.
 - 🌱 I’m currently learning Testing.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about JavaScript, React, Python and much much more!
+- 💬 Ask me about JavaScript, React, Angular, Python and much much more!
 - ⚡ Fun fact: I'm a gamer! ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
 
 #### 💻 My Toolbox ↗️
