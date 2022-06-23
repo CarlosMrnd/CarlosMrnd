@@ -42,8 +42,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosmrnd&show_icons=true&locale=en" alt="carlosmrnd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlosmrnd&" alt="carlosmrnd" /></p>
-
 
 #### Greetings from 🇨🇴 😎
 
